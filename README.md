@@ -42,8 +42,8 @@ UCF101 Dataset: https://www.crcv.ucf.edu/data/UCF101.php
 
 
 ## Results
-- Accuracy and loss plots have been saved in the Results/Individual Results/ directory.
-- Final evaluation results (e.g., test accuracy) have been saved in rResults/Ensemble_Result.txt.
+- Accuracy and loss plots have been saved in Results/Individual Results.
+- Final evaluation results (e.g., test accuracy) have been saved in Results/Ensemble_Result.txt.
 
 
 ## Future Improvements
