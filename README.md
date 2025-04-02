@@ -7,7 +7,7 @@ This repository presents an ensemble approach to action recognition in videos us
 
 
 ## Project Structure
-
+'''
 VideoActionRecognition/
 │
 ├── ActionRecognition              # Model Implementation NoteBook
@@ -25,7 +25,7 @@ VideoActionRecognition/
 ├── README.md                      # Project overview and setup instructions
 ├── .gitignore                     # Git ignore file (e.g., ignore .h5 files, output)
 └── LICENSE                        # License file (optional)
-
+'''
 
 Results
 
