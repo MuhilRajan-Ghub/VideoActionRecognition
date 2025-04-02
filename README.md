@@ -14,7 +14,7 @@ This repository presents an ensemble approach to action recognition in videos us
 
 
 ## Dataset
-UCF101 Dataset: https://www.crcv.ucf.edu/data/UCF101.php
+UCF101 Dataset: https://www.crcv.ucf.edu/data/UCF101.php  
 **Dataset Directory Structure**
 ```
 📂 Data
