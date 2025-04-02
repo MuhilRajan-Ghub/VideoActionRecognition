@@ -1,7 +1,7 @@
 # 3D Convolutional Neural Networks (Ensemble) For Action Recognition 
 
 ## Overview
-This repository presents an ensemble approach to action recognition in videos using 3D Convolutional Neural Networks (3D-CNNs). Each model is trained independently, and their predictions are averaged to produce the final classification. This technique has been shown to improve accuracy by leveraging the strengths of multiple models. The models are trained and evaluated on the UCF101 dataset, which comprises 101 action categories.
+This repository presents an ensemble approach to action recognition in videos using 3D Convolutional Neural Networks (3D-CNNs). Each model has been trained independently, and their predictions have been averaged to produce the final classification. This technique has been shown to improve accuracy by leveraging the strengths of multiple models. The models have been trained and evaluated on the UCF101 dataset, which comprises 101 action categories.
 
 
 ## Features
